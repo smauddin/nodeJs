@@ -1,0 +1,24 @@
+{
+  "name": "classwork",
+  "version": "1.0.0",
+  "description": "heyyyyy",
+  "main": "index.js",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "knock-knock-jokes": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smauddin/nodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smauddin/nodeJs/issues"
+  },
+  "homepage": "https://github.com/smauddin/nodeJs#readme"
+}
